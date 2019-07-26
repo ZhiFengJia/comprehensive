@@ -3,3 +3,4 @@
 1. ClassLoaderTest
 2. DeadLockTest
 3. LambdaTest
+4. BloomFilterTest
